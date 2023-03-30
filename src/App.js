@@ -37,6 +37,7 @@ export default function Board() {
 
   return (
     <>
+    <div className="background">
       <div className="title">TIC-TAC-TOE</div>
       <div className="status">{status}</div>
       <div className="board-row">
@@ -58,6 +59,7 @@ export default function Board() {
         Copyright: Tuukkaleksi <br></br>
         <a href="https://github.com/Tuukkaleksi">GITHUB</a>
       </footer>
+    </div>
     </>
   );
 }
