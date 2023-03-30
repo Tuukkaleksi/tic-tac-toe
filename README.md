@@ -1,5 +1,7 @@
-#First time making a React APP
-This project was built with react.
+# React App
 
-#How to play
+This project was built with React App.
+
+## How to play?
+
 Not available
