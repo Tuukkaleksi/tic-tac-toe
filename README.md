@@ -4,4 +4,5 @@ This project was built with React App.
 
 ## How to play?
 
-Not available
+You can test it here:
+https://tuukkaleksi.github.io/
